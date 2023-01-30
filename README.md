@@ -1,7 +1,7 @@
 # Module-2-Assignment: Advanced CSS Challenge Professional Portfolio
 
 ## Link to Deploy: 
-[link](https://www.youtube.com/)
+
 ## User Story
 AS AN potential employee
 I WANT to show potential employers a deployed portfolio of my work samples
